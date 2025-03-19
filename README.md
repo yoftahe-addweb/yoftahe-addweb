@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoftahe Akalu </h1>
 <h3 align="center">Building secure, scalable, and high-performance Drupal websites with custom modules and themes.</h3>
 
-🌱 I’m  ** currently learning**  Drupal 10, headless CMS, and performance optimization.
+🌱 I’m  **currently learning**  Drupal 10, headless CMS, and performance optimization.
 
 👯 I’m **looking to collaborate** on custom module development, theme customization, and enterprise Drupal solutions.
 
